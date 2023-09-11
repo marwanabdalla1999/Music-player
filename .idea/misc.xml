@@ -1,0 +1,33 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.145" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.145" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.145" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/drawable/nav_indcator.xml" value="0.1315" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/drawable/round.xml" value="0.145" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/drawable/round_top.xml" value="0.121" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/drawable/round_top_gradiant.xml" value="0.145" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/drawable/round_top_gradiant_white.xml" value="0.145" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/drawable/select.xml" value="0.145" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/layout/content_main.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/layout/fragment_descover_music.xml" value="0.264" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/layout/fragment_first.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/layout/fragment_my_library.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/layout/fragment_second.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/layout/music_player_bootm_sheet.xml" value="0.4" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/layout/search_model.xml" value="0.264" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/Users/marwan/AndroidStudioProjects/weListen2/app/src/main/res/menu/nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
